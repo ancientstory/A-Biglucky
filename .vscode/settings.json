@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "rgb.h": "c",
+        "stdio.h": "c",
+        "remote_control.h": "c"
+    }
+}
